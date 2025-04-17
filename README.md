@@ -1,3 +1,3 @@
 # vpe
 
-A new Flutter project.
+Simple video player with possibility to delete current playing file
